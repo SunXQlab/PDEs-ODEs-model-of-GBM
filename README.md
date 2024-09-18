@@ -1,4 +1,5 @@
-# MMOTMIUIRIG
+# PDEs-ODEs-model-of-GBM
+
 Multiscale Modeling of Tumor-Macrophage Interactions Underlying Immunotherapy Resistance<br> 
 We designed a hybrid analytical-numerical approach for simulating the coupled PDE-ODE model. The **MMOTMIUIRIG** model consists of four main functions:<br> 
 1.**'sum1.m'**: This function simulates tumor growth, drug treatment, and the development of drug resistance by solving a mathematical model of tumors.<br> 
